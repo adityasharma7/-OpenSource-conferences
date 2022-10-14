@@ -14,3 +14,9 @@ Venue: NIMHANS Convention Center, Bengaluru
 ### [Open Source Experience](https://www.opensource-experience.com/en/)
 Timeline: 8 & 9 November 2022  
 Venue: Palais des congrès - Paris 
+
+## December
+
+### [Devfest Indore 2022](https://gdg.community.dev/gdg-indore/)
+Timeline: 4 December 2022  
+Venue: Indore 
