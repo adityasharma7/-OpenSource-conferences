@@ -8,6 +8,13 @@ The repository will have information of Open Source events/conferences happening
 Timeline: 29-30 September, 2022  
 Venue: NIMHANS Convention Center, Bengaluru 
 
+## October
+
+### [HackSquad](https://www.hacksquad.dev/)
+Timeline: 1-31 October, 2022  
+Contribute to Open Source projects in teams 
+
+
 ## November
 
 ### [Google Open Source Live presents Go Day 2022](https://opensourcelive.withgoogle.com/events/go-day-2022)
