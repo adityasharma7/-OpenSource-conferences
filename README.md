@@ -11,8 +11,9 @@ Venue: NIMHANS Convention Center, Bengaluru
 ## November
 
 ### [Google Open Source Live presents Go Day 2022](https://opensourcelive.withgoogle.com/events/go-day-2022)
-Timeline: November 3,2022 
-,Virtual event
+Timeline: November 3,2022   
+Venue: Virtual event
+
 ### [Open Source Experience](https://www.opensource-experience.com/en/)
 Timeline: 8 & 9 November 2022  
 Venue: Palais des congrès - Paris  
